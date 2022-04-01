@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Xiaolong, a PhD student in HUST. My research focus on video action recognition.
+I am Xiaolong, a PhD student in HUST. My research focuses on video action recognition.
 
 Reach me via Email (liuxl at hust dot edu dot cn).
 
