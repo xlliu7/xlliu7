@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Xiaolong, a PhD student in HUST. My research focuses on video action recognition.
+I am Xiaolong, a PhD student in Huazhong University of Science and Technology (HUST), supervised by Professor [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ). My research focuses on video action recognition. 
 
-Reach me via Email (liuxl at hust dot edu dot cn).
+**Email**: 1) brucelio at outlook dot com (Preferred)  2) liuxl at hust dot edu dot cn
+
+**Homepage**: https://xlliu7.github.io/
+
+**Google Scholar**: https://scholar.google.com/citations?user=XDypsogAAAAJ
+
+
 
 ![Xiaolong Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlliu7&show_icons=true)
 
